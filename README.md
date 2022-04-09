@@ -21,19 +21,22 @@ Title | Solution | Difficulty |
 
 Title | Solution | Difficulty |
 |-----| -------- | ---------- |
+| | | |
 
 # Functional programming
 
 Title | Solution | Difficulty |
 |-----| -------- | ---------- |
+| | | |
 
 # Mathematics
 
 Title | Solution | Difficulty |
 |-----| -------- | ---------- |
-
+| | | |
 
 # 10 Days of Statistics
 
 Title | Solution | Difficulty |
 |-----| -------- | ---------- |
+| | | |
