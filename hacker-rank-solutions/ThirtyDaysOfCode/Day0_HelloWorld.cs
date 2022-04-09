@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace hacker_rank_solutions.ThirtyDaysOfCode
 {
-    internal class Day0_HelloWorld
+    /// <summary>
+    /// https://www.hackerrank.com/challenges/30-hello-world/problem
+    /// </summary>
+    internal static class Day0_HelloWorld
     {
-        static void Execute()
+        public static void Execute()
         {
             string input = Console.ReadLine();
 
