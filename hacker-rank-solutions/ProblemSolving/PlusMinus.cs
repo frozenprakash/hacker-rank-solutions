@@ -38,9 +38,12 @@ namespace hacker_rank_solutions.ProblemSolving
                 }
             }
 
-            positiveRatio = Math.Round(((decimal)positive / count), 6);
-            negativeRatio = Math.Round(((decimal)negative / count), 6);
-            zeroRatio = Math.Round(((decimal)zero / count), 6);
+            positiveRatio = Math.Round(((decimal)positive / count),
+                                       6);
+            negativeRatio = Math.Round(((decimal)negative / count),
+                                       6);
+            zeroRatio = Math.Round(((decimal)zero / count),
+                                   6);
 
             Console.WriteLine(positiveRatio);
             Console.WriteLine(negativeRatio);
