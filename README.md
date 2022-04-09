@@ -15,6 +15,7 @@ Title | Solution | Difficulty |
 |Day 8| [Dictionary](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day08_Dictionary.cs) | Easy |
 |Day 9| [Recursion](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day09_Recursion.cs) | Easy |
 |Day 10| [Binary Number](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day10_BinaryNumbers.cs) | Easy |
+|Day 11| | |
 
 # Problem solving
 
