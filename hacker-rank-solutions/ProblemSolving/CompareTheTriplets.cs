@@ -17,7 +17,7 @@ namespace hacker_rank_solutions.ProblemSolving
             int alice = 0,
             bob = 0;
 
-            for (int i = 0;
+            for(int i = 0;
                     i < a.Count;
                     i++)
             {
@@ -31,7 +31,8 @@ namespace hacker_rank_solutions.ProblemSolving
                 }
             }
 
-            return new List<int>() { alice, bob };
+            return new List<int>() { alice, 
+                                        bob };
         }
     }
 }
