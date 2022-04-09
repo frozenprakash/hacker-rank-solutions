@@ -9,7 +9,7 @@ namespace hacker_rank_solutions.ThirtyDaysOfCode
     /// <summary>
     /// https://www.hackerrank.com/challenges/30-hello-world/problem
     /// </summary>
-    internal static class Day0_HelloWorld
+    internal static class Day00_HelloWorld
     {
         public static void Execute()
         {

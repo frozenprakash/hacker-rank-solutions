@@ -9,7 +9,7 @@ namespace hacker_rank_solutions.ThirtyDaysOfCode
     /// <summary>
     /// https://www.hackerrank.com/challenges/30-recursion/problem
     /// </summary>
-    internal static class Day9_Recursion
+    internal static class Day09_Recursion
     {
         public static int Factorial(int n)
         {

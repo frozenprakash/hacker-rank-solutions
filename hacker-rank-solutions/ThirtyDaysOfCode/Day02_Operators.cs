@@ -9,7 +9,7 @@ namespace hacker_rank_solutions.ThirtyDaysOfCode
     /// <summary>
     /// https://www.hackerrank.com/challenges/30-operators/problem
     /// </summary>
-    internal static class Day2_Operators
+    internal static class Day02_Operators
     {
         public static void Execute(double meal_cost,
                                    int tip_percent,

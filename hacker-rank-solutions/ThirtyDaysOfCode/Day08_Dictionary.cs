@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace hacker_rank_solutions.ThirtyDaysOfCode
 {
-    internal static class Day8_Dictionary
+    internal static class Day08_Dictionary
     {
         public static void Execute()
         {

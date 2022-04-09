@@ -9,7 +9,7 @@ namespace hacker_rank_solutions.ThirtyDaysOfCode
     /// <summary>
     /// https://www.hackerrank.com/challenges/30-arrays/problem
     /// </summary>
-    internal static class Day7_Arrays
+    internal static class Day07_Arrays
     {
         public static void Execute()
         {

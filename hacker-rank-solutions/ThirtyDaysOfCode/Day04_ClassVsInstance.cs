@@ -9,7 +9,7 @@ namespace hacker_rank_solutions.ThirtyDaysOfCode
     /// <summary>
     /// https://www.hackerrank.com/challenges/30-class-vs-instance/problem
     /// </summary>
-    internal class Day4_ClassVsInstance
+    internal class Day04_ClassVsInstance
     {
         public class Person
         {

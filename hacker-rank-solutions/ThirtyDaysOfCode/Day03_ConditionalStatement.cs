@@ -9,7 +9,7 @@ namespace hacker_rank_solutions.ThirtyDaysOfCode
     /// <summary>
     /// https://www.hackerrank.com/challenges/30-conditional-statements/problem
     /// </summary>
-    internal class Day3_ConditionalStatement
+    internal class Day03_ConditionalStatement
     {
         public static void Execute()
         {

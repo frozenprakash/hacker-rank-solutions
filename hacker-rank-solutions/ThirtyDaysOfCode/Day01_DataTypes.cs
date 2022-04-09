@@ -9,7 +9,7 @@ namespace hacker_rank_solutions.ThirtyDaysOfCode
     /// <summary>
     /// https://www.hackerrank.com/challenges/30-data-types/problem
     /// </summary>
-    internal static class Day1_DataTypes
+    internal static class Day01_DataTypes
     {
         public static void Execute()
         {

@@ -9,7 +9,7 @@ namespace hacker_rank_solutions.ThirtyDaysOfCode
     /// <summary>
     /// https://www.hackerrank.com/challenges/30-loops/problem
     /// </summary>
-    internal static class Day5_Loops
+    internal static class Day05_Loops
     {
         public static void Execute()
         {

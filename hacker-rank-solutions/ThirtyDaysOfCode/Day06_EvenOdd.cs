@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace hacker_rank_solutions.ThirtyDaysOfCode
 {
-    internal static class Day6_EvenOdd
+    internal static class Day06_EvenOdd
     {
         static string Even { get; set; } = "";
         static string Odd { get; set; } = "";
