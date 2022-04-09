@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <Folder Include="RegEx\" />
-    <Folder Include="ProblemSolving\" />
   </ItemGroup>
 
 </Project>
