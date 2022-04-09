@@ -1,7 +1,7 @@
 # Hacker rank solutions
 Solutions for hacker rank challenges
 
-**30 days of code**
+# 30 days of code
 Title | Solution | Difficulty |
 |-----| -------- | ---------- |
 |Day 0| [Hello World](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day00_HelloWorld.cs) | Easy |
@@ -15,3 +15,13 @@ Title | Solution | Difficulty |
 |Day 8| [Dictionary](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day08_Dictionary.cs) | Easy |
 |Day 9| [Recursion](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day09_Recursion.cs) | Easy |
 |Day 10| [Binary Number](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day10_BinaryNumbers.cs) | Easy |
+
+# Problem solving
+
+Title | Solution | Difficulty |
+|-----| -------- | ---------- |
+
+# 10 Days of Statistics
+
+Title | Solution | Difficulty |
+|-----| -------- | ---------- |
