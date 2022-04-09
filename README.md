@@ -1,4 +1,4 @@
-# Hacker rank solutions
+# Hacker rank solutions - C#
 Solutions for hacker rank challenges
 
 # 30 days of code
