@@ -7,3 +7,4 @@ using hacker_rank_solutions.ThirtyDaysOfCode;
 //Day2_Operators.Execute(12.00,
 //                        20,
 //                        8);
+//Day3_ConditionalStatement.Execute();
