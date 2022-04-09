@@ -1,5 +1,5 @@
-# hacker-rank-solutions
-Solutions for hacker rank solutions
+# Hacker rank solutions
+Solutions for hacker rank challenges
 
 | S No | Title | Solution | Difficulty | Runtime | Faster than % submitted |
 |---| ----- | -------- | ---------- | ---------------------- | ----- |
