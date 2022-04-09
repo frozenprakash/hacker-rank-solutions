@@ -12,7 +12,7 @@ namespace hacker_rank_solutions.ProblemSolving
     internal static class CompareTheTriplets
     {
         public static List<int> Execute(List<int> a,
-                                    List<int> b)
+                                        List<int> b)
         {
             int alice = 0,
             bob = 0;
