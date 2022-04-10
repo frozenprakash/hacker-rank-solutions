@@ -8,6 +8,12 @@ namespace hacker_rank_solutions.ProblemSolving
 {
     internal static class CountingValleysAndMountains
     {
+        /// <summary>
+        /// https://www.hackerrank.com/challenges/counting-valleys/problem
+        /// </summary>
+        /// <param name="steps"></param>
+        /// <param name="path"></param>
+        /// <returns></returns>
         public static int countingValleys(int steps,
                                           string path)
         {
