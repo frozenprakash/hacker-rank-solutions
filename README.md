@@ -2,7 +2,7 @@
 Solutions for hacker rank challenges
 
 # 30 days of code
-Title | Solution | Difficulty |
+Day | Solution | Difficulty |
 |-----| -------- | ---------- |
 |Day 0| [Hello World](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day00_HelloWorld.cs) | Easy |
 |Day 1| [Data type](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day01_DataTypes.cs) | Easy |
@@ -19,9 +19,9 @@ Title | Solution | Difficulty |
 
 # Problem solving
 
-Title | Solution | Difficulty |
-|-----| -------- | ---------- |
-| | | |
+Title and Solution | Difficulty |
+| ------------------ | ---------- |
+|[Apple and oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem) | Easy |
 
 # Functional programming
 
