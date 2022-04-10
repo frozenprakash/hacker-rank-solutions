@@ -26,9 +26,17 @@ Title and Solution | Difficulty |
 |[Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| Easy |
 |[Counting valleys and mountains](https://www.hackerrank.com/challenges/counting-valleys/problem)| Easy |
 |[Electronic shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| Easy |
-|[]()| Easy |
-|[]()| Easy |
-
+|[Grading students](https://www.hackerrank.com/challenges/grading/problem)| Easy |
+|[Jumping on clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem)| Easy |
+|[Min max sum](https://www.hackerrank.com/challenges/mini-max-sum/problem)| Easy |
+|[Number line jump](https://www.hackerrank.com/challenges/kangaroo/problem)| Easy |
+|[Plus minus](https://www.hackerrank.com/challenges/plus-minus/problem)| Easy |
+|[Repeat string](https://www.hackerrank.com/challenges/repeated-string/problem)| Easy |
+|[Sales by match](https://www.hackerrank.com/challenges/sock-merchant/problem)| Easy |
+|[Simple array sum](https://www.hackerrank.com/challenges/simple-array-sum/problem)| Easy |
+|[Staircase](https://www.hackerrank.com/challenges/staircase/problem)| Easy |
+|[Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| Easy |
+|[Very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)| Easy |
 
 # Functional programming
 
