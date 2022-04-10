@@ -22,6 +22,13 @@ Day | Solution | Difficulty |
 Title and Solution | Difficulty |
 | ------------------ | ---------- |
 |[Apple and oranges](https://www.hackerrank.com/challenges/apple-and-orange/problem) | Easy |
+|[Birthday cake candles](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)| Easy |
+|[Compare the triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem)| Easy |
+|[Counting valleys and mountains](https://www.hackerrank.com/challenges/counting-valleys/problem)| Easy |
+|[Electronic shop](https://www.hackerrank.com/challenges/electronics-shop/problem)| Easy |
+|[]()| Easy |
+|[]()| Easy |
+
 
 # Functional programming
 
