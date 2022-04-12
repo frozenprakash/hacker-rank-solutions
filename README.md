@@ -4,17 +4,17 @@ Solutions for hacker rank challenges
 # 30 days of code
 Day | Problem | Solution | Difficulty |
 | --- | ------- | -------- | ---------- |
-| Day 0 | | [Hello World](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day00_HelloWorld.cs) | Easy |
-| Day 1 | | [Data type](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day01_DataTypes.cs) | Easy |
-| Day 2 | | [Operator](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day02_Operators.cs) | Easy |
-| Day 3 | | [Conditional statement](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day03_ConditionalStatement.cs) | Easy |
-| Day 4 | | [Class vs Instance](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day04_ClassVsInstance.cs) | Easy |
-| Day 5 | | [Loop](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day05_Loops.cs) | Easy |
-| Day 6 | | [Even Odd](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day06_EvenOdd.cs) | Easy |
-| Day 7 | | [Arrays](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day07_Arrays.cs) | Easy |
-| Day 8 | | [Dictionary](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day08_Dictionary.cs) | Easy |
-| Day 9 | | [Recursion](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day09_Recursion.cs) | Easy |
-| Day 10 | | [Binary Number](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day10_BinaryNumbers.cs) | Easy |
+| Day 0 | [Hello World](https://www.hackerrank.com/challenges/30-hello-world/problem) | [Hello World](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day00_HelloWorld.cs) | Easy |
+| Day 1 | [Data type](https://www.hackerrank.com/challenges/30-data-types/problem) | [Data type](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day01_DataTypes.cs) | Easy |
+| Day 2 | [Operator](https://www.hackerrank.com/challenges/30-operators/problem) | [Operator](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day02_Operators.cs) | Easy |
+| Day 3 | [Conditional statement](https://www.hackerrank.com/challenges/30-conditional-statements/problem) | [Conditional statement](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day03_ConditionalStatement.cs) | Easy |
+| Day 4 | [Class vs Instance](https://www.hackerrank.com/challenges/30-class-vs-instance/problem) | [Class vs Instance](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day04_ClassVsInstance.cs) | Easy |
+| Day 5 | [Loop](https://www.hackerrank.com/challenges/30-loops/problem) | [Loop](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day05_Loops.cs) | Easy |
+| Day 6 | [Even Odd](https://www.hackerrank.com/challenges/30-review-loop/problem) | [Even Odd](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day06_EvenOdd.cs) | Easy |
+| Day 7 | [Arrays](https://www.hackerrank.com/challenges/30-arrays/problem) | [Arrays](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day07_Arrays.cs) | Easy |
+| Day 8 | [Dictionary](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Dictionary](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day08_Dictionary.cs) | Easy |
+| Day 9 | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) | [Recursion](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day09_Recursion.cs) | Easy |
+| Day 10 | [Binary Number](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Binary Number](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day10_BinaryNumbers.cs) | Easy |
 | Day 11 | | | |
 
 # Problem solving
