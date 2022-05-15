@@ -42,7 +42,7 @@ Problem | Solution | Difficulty |
 
 Problem | Solution | Difficulty |
 |-----| -------- | ---------- |
-| [Email Address](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem) | [Email Address](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegEx/Emails.cs) | Medium |
+| [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem) | [Detect the Email Addresses](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegEx/Emails.cs) | Medium |
 
 
 # Functional programming
