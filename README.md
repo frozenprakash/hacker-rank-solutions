@@ -38,6 +38,13 @@ Problem | Solution | Difficulty |
 | [Time conversion](https://www.hackerrank.com/challenges/time-conversion/problem)| [Time conversion](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ProblemSolving/TimeConversion.cs) | Easy |
 | [Very big sum](https://www.hackerrank.com/challenges/a-very-big-sum/problem)| [Very big sum](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ProblemSolving/VeryBigSum.cs) | Easy |
 
+# Regular Expression
+
+Problem | Solution | Difficulty |
+|-----| -------- | ---------- |
+| [Email Address](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem) | [Email Address]() | Medium |
+
+
 # Functional programming
 
 Title | Solution | Difficulty |
