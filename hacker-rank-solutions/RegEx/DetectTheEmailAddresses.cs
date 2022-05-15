@@ -23,7 +23,8 @@ namespace hacker_rank_solutions.RegEx
         private static List<string> GetAllEmails()
         {
             int count;
-            string input;
+            string input,
+                    pattern;
             List<string> emails;
             MatchCollection mc;
 
@@ -35,9 +36,10 @@ namespace hacker_rank_solutions.RegEx
                     i++)
             {
                 input = Console.ReadLine();
+                pattern = @"([a-zA-Z0-9_.]+)@([a-zA-Z0-9_.]+)";
 
                 mc = Regex.Matches(input,
-                                    @"([a-zA-Z0-9_.]+)@([a-zA-Z0-9_.]+)");
+                                    pattern);
                 foreach (Match m in mc)
                 {
                     emails.Add(m.Value);
