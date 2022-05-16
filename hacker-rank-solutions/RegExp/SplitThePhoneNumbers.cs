@@ -4,7 +4,7 @@ namespace hacker_rank_solutions.RegExp
 {
     internal static class SplitThePhoneNumbers
     {
-        static void Main(String[] args)
+        public static void Execute()
         {
             List<string> inputs;
             Match m;
