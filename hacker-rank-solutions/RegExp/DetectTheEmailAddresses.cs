@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace hacker_rank_solutions.RegEx
+namespace hacker_rank_solutions.RegExp
 {
     internal static class DetectTheEmailAddresses
     {
