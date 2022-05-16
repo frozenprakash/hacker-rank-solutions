@@ -42,9 +42,9 @@ Problem | Solution | Difficulty |
 
 Problem | Solution | Difficulty |
 |-----| -------- | ---------- |
-| [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem) | [Detect the Email Addresses](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegEx/DetectTheEmailAddresses.cs) | Medium |
-| [Detect HTML Links](https://www.hackerrank.com/challenges/detect-html-links/problem) | [Detect HTML Links](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/DetectHtmlLinks.cs) | Medium
-| [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation/problem) | [IP Address Validation](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/IPAddressValidation.cs) | Easy
+| [Detect the email addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem) | [Detect the email addresses](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegEx/DetectTheEmailAddresses.cs) | Medium |
+| [Detect Html links](https://www.hackerrank.com/challenges/detect-html-links/problem) | [Detect Html links](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/DetectHtmlLinks.cs) | Medium
+| [IP address validation](https://www.hackerrank.com/challenges/ip-address-validation/problem) | [IP address validation](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/IPAddressValidation.cs) | Easy
 | [Split the phone numbers](https://www.hackerrank.com/challenges/split-number/problem) | [Split the phone numbers](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/SplitThePhoneNumbers.cs) | Easy
 
 # Functional programming
