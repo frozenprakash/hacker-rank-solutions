@@ -46,6 +46,7 @@ Problem | Solution | Difficulty |
 | [Detect Html links](https://www.hackerrank.com/challenges/detect-html-links/problem) | [Detect Html links](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/DetectHtmlLinks.cs) | Medium
 | [IP address validation](https://www.hackerrank.com/challenges/ip-address-validation/problem) | [IP address validation](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/IPAddressValidation.cs) | Easy
 | [Split the phone numbers](https://www.hackerrank.com/challenges/split-number/problem) | [Split the phone numbers](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/SplitThePhoneNumbers.cs) | Easy
+| [Valid pan format](https://www.hackerrank.com/challenges/valid-pan-format/problem) | [Valid pan format](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/ValidPanFormat.cs) | Easy
 
 # Functional programming
 
