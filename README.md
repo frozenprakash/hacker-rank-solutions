@@ -47,6 +47,7 @@ Problem | Solution | Difficulty |
 | [IP address validation](https://www.hackerrank.com/challenges/ip-address-validation/problem) | [IP address validation](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/IPAddressValidation.cs) | Easy
 | [Split the phone numbers](https://www.hackerrank.com/challenges/split-number/problem) | [Split the phone numbers](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/SplitThePhoneNumbers.cs) | Easy
 | [Valid pan format](https://www.hackerrank.com/challenges/valid-pan-format/problem) | [Valid pan format](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/ValidPanFormat.cs) | Easy
+| [Hacker rank tweets](https://www.hackerrank.com/challenges/hackerrank-tweets/problem) | [Hacker rank tweets](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/HackerrankTweets.cs) | Easy
 
 # Functional programming
 
