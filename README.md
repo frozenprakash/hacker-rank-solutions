@@ -44,6 +44,7 @@ Problem | Solution | Difficulty |
 |-----| -------- | ---------- |
 | [Detect the Email Addresses](https://www.hackerrank.com/challenges/detect-the-email-addresses/problem) | [Detect the Email Addresses](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegEx/DetectTheEmailAddresses.cs) | Medium |
 | [Detect HTML Links](https://www.hackerrank.com/challenges/detect-html-links/problem) | [Detect HTML Links](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/DetectHtmlLinks.cs) | Medium
+| [IP Address Validation](https://www.hackerrank.com/challenges/ip-address-validation/problem) | [IP Address Validation](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/RegExp/IPAddressValidation.cs) | Easy
 
 # Functional programming
 
