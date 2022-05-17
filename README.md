@@ -15,7 +15,7 @@ Day | Problem | Solution | Difficulty |
 | Day 8 | [Dictionary](https://www.hackerrank.com/challenges/30-dictionaries-and-maps/problem) | [Dictionary](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day08_Dictionary.cs) | Easy |
 | Day 9 | [Recursion](https://www.hackerrank.com/challenges/30-recursion/problem) | [Recursion](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day09_Recursion.cs) | Easy |
 | Day 10 | [Binary Number](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Binary Number](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day10_BinaryNumbers.cs) | Easy |
-| Day 11 | | | |
+| Day 11 | [2d Array](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [2d Array](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day11_2DArrays.cs) | Easy
 | Day 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Inheritance](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day12_Inheritance.cs) | Easy
 
 # Problem solving
