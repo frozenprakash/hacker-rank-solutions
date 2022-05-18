@@ -17,6 +17,7 @@ Day | Problem | Solution | Difficulty |
 | Day 10 | [Binary Number](https://www.hackerrank.com/challenges/30-binary-numbers/problem) | [Binary Number](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day10_BinaryNumbers.cs) | Easy |
 | Day 11 | [2d Array](https://www.hackerrank.com/challenges/30-2d-arrays/problem) | [2d Array](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day11_2DArrays.cs) | Easy
 | Day 12 | [Inheritance](https://www.hackerrank.com/challenges/30-inheritance/problem) | [Inheritance](https://github.com/frozenprakash/hacker-rank-solutions/blob/master/hacker-rank-solutions/ThirtyDaysOfCode/Day12_Inheritance.cs) | Easy
+| Day 13 | [Abstract classes](https://www.hackerrank.com/challenges/30-abstract-classes/problem) | [Abstract classes)() | Easy
 
 # Problem solving
 
